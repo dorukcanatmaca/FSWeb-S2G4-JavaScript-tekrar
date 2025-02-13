@@ -121,6 +121,8 @@ let ucetambolunenler,
 
 /* kodlar buraya */
 
+// yorumlar
+
 /*  Bu satırın aşağısındaki kodları lütfen değiştirmeyin  */
 
 function sa() {
